@@ -1,3 +1,3 @@
 [workspace]
 resolver = "2"
-members = ["a_hello_world", "b_string_interpolation", "c_var_types", "d_shadowing"]
+members = ["a_hello_world", "b_string_interpolation", "c_var_types", "d_shadowing", "e_data_types"]
