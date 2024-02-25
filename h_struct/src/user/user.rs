@@ -1,4 +1,3 @@
-#[derive(Clone)]
 pub struct User {
     pub username: String,
     email: String,
